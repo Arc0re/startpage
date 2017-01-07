@@ -1,4 +1,4 @@
 #Custom browser startpage
 
 ##Screenshots
-![startpage1](https://imgur.com/a/uyyzH)
+![startpage1](https://i.imgur.com/FamnRkn.jpg)
